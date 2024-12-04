@@ -4,7 +4,7 @@
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/liebertsx/a/main/key.lua", true))()
 
 local key = "yourkey123"
-local link = "https://discord.gg/xZ8y2pWj"
+local link = "https://discord.gg/YnEwrCT6EG"
 local script = [[
 -- put script
 print("succes")
